@@ -7,4 +7,5 @@
     <string name="T">T</string>
     <string name="F">F</string>
     <string name="submit">SUBMIT</string>
+    <string name="EndMessage">You had %d correct!</string>
 </resources>
